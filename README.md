@@ -5,7 +5,7 @@
 You can visit my website:  
 https://qoolixiloop.wordpress.com
 
-This webpage is hosted on GitHub and can be accessed with:
+This webpage is hosted on GitHub and can be accessed with:  
 https://qoolixiloop.github.io/qool-wordpress-loop/
 
 ## Screenshots of my website
@@ -16,56 +16,56 @@ The following screenshots of this section show the main parts of my website.
 ### HOME page
 My HOME page contains an overview, in which I explain the main parts of my website. For ech tab of the navigation bar, I wrote a short introduction and added a picture or an embedded video.  
 
-* ![wp-com-site-home1][2010]  
+![wp-com-site-home1][2010]  
 
-* ![wp-com-site-home2][2020]  
+![wp-com-site-home2][2020]  
 
-* ![wp-com-site-home3][2030]  
+![wp-com-site-home3][2030]  
 
-* ![wp-com-site-home4][2040]  
+![wp-com-site-home4][2040]  
 
-* ![wp-com-site-home5][2050]  
+![wp-com-site-home5][2050]  
 
-* ![wp-com-site-home6][2060]  
+![wp-com-site-home6][2060]  
 
-* ![wp-com-site-home7][2070]  
+![wp-com-site-home7][2070]  
 
 ### POSTS page
 The POSTS page displays my blog post summaries ordered by date. In the settings of my website, I have chosen to show 10 blog post summaries per site. The image below shows a blog post summary about WordPress.  
 
-* ![wp-com-site-posts][2080]  
+![wp-com-site-posts][2080]  
 
 ### A POST page
 By clicking the blog title the blog post is loaded into the browser. 
 
-* ![wp-com-site-posts-post][2090]    
+![wp-com-site-posts-post][2090]    
 
 ### PROJECTS page
 The PROJECTS page shows a picture for each of my projects. By hovering over the picture a link becomes visible. 
 
-* ![wp-com-site-projects][2110]  
+![wp-com-site-projects][2110]  
 
 ### A PROJECT page
 Clicking the link for my Linux project opens my project page about Linux. The two images below show a picture and a short introduction at the beginning and another picture or animation at the end of my project page. In between are sections, which summarize my work and link to either blog posts or GitHub pages, where I host my software as well as tutorials and wiki-pages.  
 
-* ![wp-com-site-projects-project1][2120] 
+![wp-com-site-projects-project1][2120] 
 
-* ![wp-com-site-projects-project2][2130]  
+![wp-com-site-projects-project2][2130]  
 
 ### TESTIMONIALS page
 The TESTIMONIALS page, is a summary about what I think, people would say about me. The reason, why I do not use real people, is because I deeply abhor the concept of recommendations. If certifications aren't enough, the companies and universities should do a better job, when writing them. It would be so simple to set up a website with data base, where everyone can check, whether a certificate is authentic.  
   
-* ![wp-com-site-testimonials][2140]  
+![wp-com-site-testimonials][2140]  
 
 ### ABOUT ME page
 The about me page is some kind of CV followed by my certificates, the attended lectures and received marks.  
 
-* ![wp-com-site-aboutme][2150]  
+![wp-com-site-aboutme][2150]  
 
 ### DONATIONS page
 The donations page contains a summary about me and gives visitors the choice to support my work.  
 
-* ![wp-com-site-donations][2160]  
+![wp-com-site-donations][2160]  
 
 # Building your website 
 
@@ -83,8 +83,8 @@ Main constraints of a free plan are:
 
 The first image below shows WordPress.com's website, where you can register for a free account. The second image shows the main administration screen of WordPress.com. From there, you can build your website or upgrade to another plan. This administration screen differs slightly from the one of the open source version of WordPress.org and might further change in the future. 
 
-* ![wp-com-register][1030]  
-* ![wp-com-admin][1010]  
+![wp-com-register][1030]  
+![wp-com-admin][1010]  
 
 ### WordPress.com, further steps to build your website similar to WordPress.org
 Because at WordPress.com you can also access the administration screen of the open source version of WordPress.org, I only show the screenshots of the open source version. In the end it doesn't matter, which administration screen you use or which link you click, in order to build your website. To access the administration screen of WordPress.org you add `/wp-admin/` to the administration screen of your WordPress.com URL.
@@ -102,16 +102,16 @@ Main advantages of WordPress.org over WordPress.com:
 ### WordPress.org and WordPress.com, Step 2: Choose your theme
 Choose Appearance and Themes to choose your theme, I checked many and in the end decided to activate Lodestar. Depending on what theme you chose, you have more or less options and features available.  
 
-* ![wp-admin Appearance Theme][30]  
+![wp-admin Appearance Theme][30]  
 
 ### WordPress.org and WordPress.com, Step 3: Customize your theme
 Choose Appearance and Customize to start the Customizer. In the end you will have to click through each section in order to customize your website. 
 
-* ![wp-admin Appearance Customize][10]  
+![wp-admin Appearance Customize][10]  
 
 The first and most important part is to choose the menus section to enter your menu or navigation tabs of your website and link them to your webpages, which you will create next.
 
-* ![wp-admin Appearance Customize Menu][20]  
+![wp-admin Appearance Customize Menu][20]  
 
 ### WordPress.org and WordPress.com, Step 4: Create your pages
 Below, you see my webpages. The Front Page, which is my HOME page and the Posts page are standard concepts in WordPress.org. This is not the case for the Portfolio / Projects page and the Testimonials page, which are only supported by certain themes, like e.g. Lodestar. 
@@ -120,31 +120,31 @@ As you can see, I also added three additional pages, Donations, About me and ano
 
 By clicking the Add New button, you can add a new webpage. Once created it shows in the list and can be accessed by clicking the corresponding list entry. 
 
-* ![wp-admin Pages][70] 
+![wp-admin Pages][70] 
 
 
 By clicking the Front page link, you can enter the Front or HOME page. 
 
-* ![wp-admin Pages Page][80]  
+![wp-admin Pages Page][80]  
 
 By clicking the Add New button, you can enter an empty page. First, you should give it a title. After that, you can start filling the page with content. WordPress offers blocks, which automatically add HTML tags around your content. The image below shows the available block categories. Each category offers blocks, from which you can choose. 
-* ![wp-admin Pages Page BlockCategories][90]   
+![wp-admin Pages Page BlockCategories][90]   
 
 The Most Used Block Types dropdown window contains the blocks types, you most often used in the past. It is accessed by clicking the plus sign.   
-* ![wp-admin Pages Page MostUsedBlockTypes][110]  
-* ![wp-admin Pages Page MostUsedBlockTypes][110]  
+![wp-admin Pages Page MostUsedBlockTypes][110]  
+![wp-admin Pages Page MostUsedBlockTypes][110]  
 
 To enter a title you can choose the Heading block type, to enter text you can choose the Paragraph block type, to add an image you can choose the image block type, and so on.
-* ![wp-admin Pages Page Blocks][100] 
+![wp-admin Pages Page Blocks][100] 
 
 In order to embed a YouTube video you have several possibilities. But if you like to give the window a fixed size and to center align it, in WordPress.org you have to enter HTML code similar to what is shown in the image below.
-* ![wp-admin Pages Page YouTubeVideo][120]  
+![wp-admin Pages Page YouTubeVideo][120]  
 
 The same is true for YouTube videos in WordPress.com, but the HTML code is different.
-* ![wp-com Page YouTubeVideo][1020]  
+![wp-com Page YouTubeVideo][1020]  
 
 Whenever you want to add an image or a video you can either upload it to WordPress or to another hosting site. To upload images or videos you can drag and drop them into the Media Library, which you can access over the navigation bar as shown below or directly over a link in some blocks. 
-* ![wp-admin Media][60]
+![wp-admin Media][60]
 
 #### Important note
 Do not upload big videos to WordPress if you expext a lot of traffic to your webpage. Host them e.g. on YouTube. The same is true for webpages with lots of big images. Most hosting plans for websites have traffic limitations. If you host your video on Youtube, your website hosting is unaffected by this traffic.
@@ -154,46 +154,46 @@ The whole process for posts is similar to the one for pages. Below, you see the 
 
 By clicking the Add New button, you can add a new blog post. Once created it shows in the list and can be accessed by clicking the corresponding list entry. 
 
-* ![wp-admin Posts][150]  
+![wp-admin Posts][150]  
 
-* ![wp-admin Posts Post][160]  
+![wp-admin Posts Post][160]  
 
 ### WordPress.org and WordPress.com, Step 6: Create your portfolio / projects
 Again the whole process for projects is similar to the one for pages. Below, you see the list of my projects.  
 
 By clicking the Add New button, you can add a new project. Once created it shows in the list and can be accessed by clicking the corresponding list entry. 
 
-* ![wp-admin Portfolio][130]  
+![wp-admin Portfolio][130]  
 
-* ![wp-admin Portfolio Projects][140]  
+![wp-admin Portfolio Projects][140]  
 
 ### WordPress.org and WordPress.com, Step 7: Create your testimonials
 And again the whole process for testimonials is similar to the one for pages. Below, you see the list of my testimonials.  
 
 By clicking the Add New button, you can add a new testimonial. Once created it shows in the list and can be accessed by clicking the corresponding list entry. 
 
-* ![wp-admin Testimonials][200]  
+![wp-admin Testimonials][200]  
 
-* ![wp-admin Testimonials Testimonial][210]   
+![wp-admin Testimonials Testimonial][210]   
 
 ### WordPress.org and WordPress.com, Step 8: customize the settings
 By clicking Settings and then Reading, you can e.g. define your HOME and Posts page and define how many post summaries should be shown on your Posts page. 
 
-* ![wp-admin Settings Reading][180]  
+![wp-admin Settings Reading][180]  
 
 By clicking the Settings and then Writing, you can e.g. define the number of testimonals your Testimonals page should show, and how many project pictures with links your Portfolio / Projects page should show.  
  
-* ![wp-admin Settings Writing][190]  
+![wp-admin Settings Writing][190]  
 
 #### WordPress.org backups
 In order to back up your whole website, not just parts of it like your data base, you need to install a plugin like Updraft. Once installed, it can be accessed through the Settings section.
 
-* ![wp-admin Settings Backup][170]  
+![wp-admin Settings Backup][170]  
 
 ### WordPress.org and WordPress.com, Step 9: Others
 The Comments section lets you deal with the comments of your visitors. The Jetpack is a plugin of WordPress.com which lets you analyze the traffic on your website.
-* ![wp-admin Comments][40]  
-* ![wp-admin Jetpack][50]  
+![wp-admin Comments][40]  
+![wp-admin Jetpack][50]  
 
 ---------------
 qoolixiloop, 20. Mar. 2019
