@@ -97,28 +97,88 @@ Main advantages of WordPress.org over WordPress.com:
 
 
 ### WordPress.org and Wordpress.com, Step 2: Choose your theme
-What you see here
+Choose Appearance and Themes to choose your theme, I checked many and in the end decided to activate Lodestar. Depending on what theme you chose, you have more or less options and features available.  
+
 ![wp-admin Appearance Theme][30]  
+
+### WordPress.org and Wordpress.com, Step 3: Customize your theme
+Choose Appearance and Customize to start the Customizer. In the end you will have to click through each section in order to customize your website. 
+
 ![wp-admin Appearance Customize][10]  
+
+The first and most important part is to choose the menus section to enter your menu or navigation tabs of your website and link them to your webpages, which you will create next.
+
 ![wp-admin Appearance Customize Menu][20]  
-![wp-admin Pages][70]  
-![wp-com Page YouTubeVideo][1020]  
-![wp-admin Media][60]  
+
+### WordPress.org and Wordpress.com, Step 4: Create your pages
+Below, you see my webpages. The Front Page, which is my HOME page and the Posts page are standard concepts in WordPress.org. This is not the case for the Portfolio / Projects page and the Testimonials page, which are only supported by certain themes, like e.g. Lodestar. 
+
+As you can see, I also added three additional pages, Donations, About me and another one, I never published. 
+
+By clicking the Add New button, you can add a new webpage. Once created it shows in the list and can be accessed by clicking the corresponding list entry. 
+
+![wp-admin Pages][70] 
+
+
+By clicking the Front page link, you can enter the Front or HOME page. 
+
 ![wp-admin Pages Page][80]  
+
+By clicking the Add New button, you can enter an empty page. First, you should give it a title. After that, you can start filling the page with content. WordPress offers blocks, which automatically add HTML tags around your content. The image below shows the available block categories. Each category offers blocks, from which you can choose. 
 ![wp-admin Pages Page BlockCategories][90]   
-![wp-admin Pages Page Blocks][100]  
+
+The Most Used Block Types dropdown window contains the blocks types, you most often used in the past. It is accessed by clicking the plus sign.   
 ![wp-admin Pages Page MostUsedBlockTypes][110]  
+![wp-admin Pages Page MostUsedBlockTypes][110]  
+
+To enter a title you can choose the Heading block type, to enter text you can choose the Paragraph block type, to add an image you can choose the image block type, and so on.
+![wp-admin Pages Page Blocks][100] 
+
+In order to embed a YouTube video you have several possibilities. But if you like to give the window a fixed size and to center align it, in WordPress.org you have to enter HTML code similar to what is shown in the image below.
 ![wp-admin Pages Page YouTubeVideo][120]  
-![wp-admin Portfolio][130]  
-![wp-admin Portfolio Projects][140]  
+
+The same is true for YouTube videos in WordPress.com, but the HTML code is different.
+![wp-com Page YouTubeVideo][1020]  
+
+Whenever you want to add an image or a video you can either upload it to WordPress or to another hosting site. To upload images or videos you can drag and drop them into the Media Library, which you can access over the navigation bar as shown below or directly over a link in some blocks. 
+![wp-admin Media][60]
+
+#### Important note
+Do not upload big videos to WordPress if you expext a lot of traffic to your webpage. Host them e.g. on YouTube. The same is true for webpages with lots of big images. Most hosting plans for websites have traffic limitations. If you host your video on Youtube, your website hosting is unaffected by this traffic.
+
+### WordPress.org and Wordpress.com, Step 5: Create your posts
+The whole process for posts is similar to the one for pages. Below, you see the list of my blog posts.  
+
+By clicking the Add New button, you can add a new blog post. Once created it shows in the list and can be accessed by clicking the corresponding list entry. 
+
 ![wp-admin Posts][150]  
+
 ![wp-admin Posts Post][160]  
+
+### WordPress.org and Wordpress.com, Step 6: Create your portfolio / projects
+Again the whole process for projects is similar to the one for pages. Below, you see the list of my projects.  
+
+By clicking the Add New button, you can add a new project. Once created it shows in the list and can be accessed by clicking the corresponding list entry. 
+
+![wp-admin Portfolio][130]  
+
+![wp-admin Portfolio Projects][140]  
+
+### WordPress.org and Wordpress.com, Step 7: Create your testimonials
+And again the whole process for testimonials is similar to the one for pages. Below, you see the list of my testimonials.  
+
+By clicking the Add New button, you can add a new testimonial. Once created it shows in the list and can be accessed by clicking the corresponding list entry. 
+
+![wp-admin Testimonials][200]  
+
+![wp-admin Testimonials Testimonial][210]   
+
+### WordPress.org and Wordpress.com, Step 4: customize the settings
 ![wp-admin Settings Backup][170]  
 ![wp-admin Settings Reading][180]  
 ![wp-admin Settings Writing][190]  
-![wp-admin Testimonials][200]  
-![wp-admin Testimonials Testimonial][210]   
 
+### WordPress.org and Wordpress.com, Step 4: Create your pages
 ![wp-admin Comments][40]  
 ![wp-admin Jetpack][50]  
 
